@@ -38,7 +38,7 @@ setup(
         'visdom',
         'Pillow',
         'future',
-        'torch>=1.2.0,<1.6.0',
+        'torch>=1.2.0',
         'numpy>=1.15.0',
         'scipy',
         'scikit-learn==0.20.3',
